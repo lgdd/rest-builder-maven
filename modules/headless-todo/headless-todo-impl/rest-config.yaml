@@ -1,0 +1,7 @@
+apiDir: "../headless-todo-api/src/main/java"
+apiPackagePath: "com.github.lgdd.liferay.headless.todo"
+application:
+    baseURI: "/headless-todo"
+    className: "HeadlessTodoApplication"
+    name: "HeadlessTodo"
+author: "lgd"

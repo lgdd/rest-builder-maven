@@ -1,0 +1,4 @@
+Bundle-Name: Headless Demo - Todo Impl
+Bundle-SymbolicName: headless.todo.impl
+Bundle-Version: 1.0.0
+-includeresource: META-INF/liferay/rest/rest-config.yaml=rest-config.yaml,META-INF/liferay/rest/rest-openapi.yaml=rest-openapi.yaml

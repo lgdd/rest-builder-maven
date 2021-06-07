@@ -1,0 +1,6 @@
+Bundle-Name: Headless Demo - Todo API
+Bundle-SymbolicName: headless.todo.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	com.github.lgdd.liferay.headless.todo.dto.v1_0,\
+	com.github.lgdd.liferay.headless.todo.resource.v1_0
